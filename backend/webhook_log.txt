@@ -1,0 +1,6 @@
+2026-04-28 21:47:31 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva: Mesa 3","product_reference":null}],"amount":100,"order_nsu":"RES-69f10e97d3373","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/5ac82f45-5454-467b-8d37-7a0de14cc681","installments":1,"invoice_slug":"7kKCle0b41","capture_method":"pix","transaction_nsu":"5ac82f45-5454-467b-8d37-7a0de14cc681"}
+2026-04-28 21:47:31 - Sucesso: Venda do pedido RES-69f10e97d3373 processada no banco.
+
+2026-04-28 22:07:20 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva: Mesa 6","product_reference":null}],"amount":100,"order_nsu":"RES-69f113179be1b","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/8503431e-4630-43c5-9431-28237f38b256","installments":1,"invoice_slug":"1I3QEMnrov","capture_method":"pix","transaction_nsu":"8503431e-4630-43c5-9431-28237f38b256"}
+2026-04-28 22:07:20 - Sucesso: Venda do pedido RES-69f113179be1b processada no banco.
+
