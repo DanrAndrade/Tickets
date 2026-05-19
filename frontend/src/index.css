@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Colored Horizontal Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  height: 12px;
+  width: 12px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #ecfdf5; /* emerald-50 */
+  border-radius: 8px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #10b981; /* emerald-500 */
+  border-radius: 8px;
+  border: 2px solid #ecfdf5;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #059669; /* emerald-600 */
+}

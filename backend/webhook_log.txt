@@ -1,6 +1,77 @@
-2026-04-28 21:47:31 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva: Mesa 3","product_reference":null}],"amount":100,"order_nsu":"RES-69f10e97d3373","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/5ac82f45-5454-467b-8d37-7a0de14cc681","installments":1,"invoice_slug":"7kKCle0b41","capture_method":"pix","transaction_nsu":"5ac82f45-5454-467b-8d37-7a0de14cc681"}
-2026-04-28 21:47:31 - Sucesso: Venda do pedido RES-69f10e97d3373 processada no banco.
+2026-05-06 20:20:05 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Ingresso Individual Forró (1 x)","product_reference":null}],"amount":100,"order_nsu":"RES-69fb86100633a","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/3c65aaa9-c32a-4015-87aa-d1ed63adc2fd","installments":1,"invoice_slug":"2b9f3WIZvZ","capture_method":"pix","transaction_nsu":"3c65aaa9-c32a-4015-87aa-d1ed63adc2fd"}
+2026-05-06 20:20:05 - Vendas atualizadas: 1 linha(s) para order_nsu=RES-69fb86100633a
+2026-05-06 20:20:05 - Assentos atualizados: 0 linha(s) para order_nsu=RES-69fb86100633a
+2026-05-06 20:20:05 - Sucesso: Pedido RES-69fb86100633a processado. Vendas=1, Assentos=0
 
-2026-04-28 22:07:20 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva: Mesa 6","product_reference":null}],"amount":100,"order_nsu":"RES-69f113179be1b","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/8503431e-4630-43c5-9431-28237f38b256","installments":1,"invoice_slug":"1I3QEMnrov","capture_method":"pix","transaction_nsu":"8503431e-4630-43c5-9431-28237f38b256"}
-2026-04-28 22:07:20 - Sucesso: Venda do pedido RES-69f113179be1b processada no banco.
+2026-05-06 20:49:09 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva Mesas: Mesa 1","product_reference":null}],"amount":100,"order_nsu":"RES-69fb8cc5898bc","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/95abc7fe-9601-4eb2-afb7-c89195b77fa4","installments":1,"invoice_slug":"3tjjsz3yRZ","capture_method":"pix","transaction_nsu":"95abc7fe-9601-4eb2-afb7-c89195b77fa4"}
+2026-05-06 20:49:09 - Vendas atualizadas: 1 linha(s) para order_nsu=RES-69fb8cc5898bc
+2026-05-06 20:49:09 - Assentos atualizados: 1 linha(s) para order_nsu=RES-69fb8cc5898bc
+2026-05-06 20:49:09 - Sucesso: Pedido RES-69fb8cc5898bc processado. Vendas=1, Assentos=1
+
+2026-05-07 22:39:27 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva Mesas: Mesa 3","product_reference":null}],"amount":100,"order_nsu":"RES-69fcf5073bb30","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/9e6f43bd-3c0e-4da4-8fe6-2a56ac63918b","installments":1,"invoice_slug":"iF8ogycxo1","capture_method":"pix","transaction_nsu":"9e6f43bd-3c0e-4da4-8fe6-2a56ac63918b"}
+2026-05-07 22:39:27 - Vendas atualizadas: 1 linha(s) para order_nsu=RES-69fcf5073bb30
+2026-05-07 22:39:27 - Assentos atualizados: 1 linha(s) para order_nsu=RES-69fcf5073bb30
+2026-05-07 22:39:27 - Sucesso: Pedido RES-69fcf5073bb30 processado. Vendas=1, Assentos=1
+
+2026-05-11 22:07:13 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva Mesas: Mesa 24","product_reference":null}],"amount":100,"order_nsu":"RES-6a02368fcff54","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/5825d858-c9a2-42fe-ab39-9ed362040ca1","installments":1,"invoice_slug":"5OrDz5LA6g","capture_method":"pix","transaction_nsu":"5825d858-c9a2-42fe-ab39-9ed362040ca1"}
+2026-05-11 22:07:13 - Vendas atualizadas: 4 linha(s) para order_nsu=RES-6a02368fcff54
+2026-05-11 22:07:13 - Assentos atualizados: 1 linha(s) para order_nsu=RES-6a02368fcff54
+2026-05-11 22:07:13 - Sucesso: Pedido RES-6a02368fcff54 processado. Vendas=4, Assentos=1
+
+2026-05-18 20:42:51 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva Mesas: Mesa 5","product_reference":null}],"amount":100,"order_nsu":"RES-6a0b5d4c25e45","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/c58cad6a-cfd4-4c03-87a2-a761a27bf85b","installments":1,"invoice_slug":"EH1BRqOmII","capture_method":"pix","transaction_nsu":"c58cad6a-cfd4-4c03-87a2-a761a27bf85b"}
+2026-05-18 20:42:51 - Vendas atualizadas: 4 linha(s) para order_nsu=RES-6a0b5d4c25e45
+2026-05-18 20:42:51 - Assentos atualizados: 1 linha(s) para order_nsu=RES-6a0b5d4c25e45
+2026-05-18 20:42:51 - Sucesso: Pedido RES-6a0b5d4c25e45 processado. Vendas=4, Assentos=1
+
+2026-05-18 21:22:05 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Ingresso Individual Forró (1 x)","product_reference":null}],"amount":100,"order_nsu":"RES-6a0b6694517cf","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/2dba70b0-0e60-42ef-84cb-ab4d4765e264","installments":1,"invoice_slug":"LHL1nv1QD7","capture_method":"pix","transaction_nsu":"2dba70b0-0e60-42ef-84cb-ab4d4765e264"}
+2026-05-18 21:22:05 - Vendas atualizadas: 1 linha(s) para order_nsu=RES-6a0b6694517cf
+2026-05-18 21:22:05 - Assentos atualizados: 0 linha(s) para order_nsu=RES-6a0b6694517cf
+2026-05-18 21:22:05 - Sucesso: Pedido RES-6a0b6694517cf processado. Vendas=1, Assentos=0
+
+2026-05-18 21:27:05 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Ingresso Individual Forró (1 x) (+ 2 acompanhantes grátis por ingresso)","product_reference":null}],"amount":100,"order_nsu":"RES-6a0b67ab0d212","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/b304d116-6f5d-44ea-bc73-4bf64198da76","installments":1,"invoice_slug":"UFsT906VRU","capture_method":"pix","transaction_nsu":"b304d116-6f5d-44ea-bc73-4bf64198da76"}
+2026-05-18 21:27:05 - Vendas atualizadas: 3 linha(s) para order_nsu=RES-6a0b67ab0d212
+2026-05-18 21:27:05 - Assentos atualizados: 0 linha(s) para order_nsu=RES-6a0b67ab0d212
+2026-05-18 21:27:05 - Sucesso: Pedido RES-6a0b67ab0d212 processado. Vendas=3, Assentos=0
+
+2026-05-18 21:35:53 - Recebido: {"items":[{"price":200,"quantity":1,"description":"Ingresso Individual Forró (2 x)","product_reference":null}],"amount":200,"order_nsu":"RES-6a0b69c1ea5cd","paid_amount":200,"receipt_url":"https://recibo.infinitepay.io/d72af91e-ae3c-4519-b9c4-a57fa9234c91","installments":1,"invoice_slug":"jXzALhXwOy","capture_method":"pix","transaction_nsu":"d72af91e-ae3c-4519-b9c4-a57fa9234c91"}
+2026-05-18 21:35:53 - Vendas atualizadas: 2 linha(s) para order_nsu=RES-6a0b69c1ea5cd
+2026-05-18 21:35:53 - Assentos atualizados: 0 linha(s) para order_nsu=RES-6a0b69c1ea5cd
+2026-05-18 21:35:53 - Sucesso: Pedido RES-6a0b69c1ea5cd processado. Vendas=2, Assentos=0
+
+2026-05-18 22:51:32 - Recebido: {"items":[{"price":200,"quantity":1,"description":"Ingresso Individual Forró (2 x)","product_reference":null}],"amount":200,"order_nsu":"RES-6a0b7b85979ee","paid_amount":200,"receipt_url":"https://recibo.infinitepay.io/a2df489d-580a-4195-8000-a7454701e931","installments":1,"invoice_slug":"xnuLqSMSie","capture_method":"pix","transaction_nsu":"a2df489d-580a-4195-8000-a7454701e931"}
+2026-05-18 22:51:32 - Vendas atualizadas: 2 linha(s) para order_nsu=RES-6a0b7b85979ee
+2026-05-18 22:51:32 - Assentos atualizados: 0 linha(s) para order_nsu=RES-6a0b7b85979ee
+2026-05-18 22:51:33 - Sucesso: Pedido RES-6a0b7b85979ee processado. Vendas=2, Assentos=0
+
+2026-05-18 22:53:48 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Ingresso Individual Forró (1 x) (+ 2 acompanhantes grátis por ingresso)","product_reference":null}],"amount":100,"order_nsu":"RES-6a0b7c19a5421","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/3855c9c2-f874-41f5-a0ea-59a49cb83f57","installments":1,"invoice_slug":"Oh3wg297FO","capture_method":"pix","transaction_nsu":"3855c9c2-f874-41f5-a0ea-59a49cb83f57"}
+2026-05-18 22:53:48 - Vendas atualizadas: 3 linha(s) para order_nsu=RES-6a0b7c19a5421
+2026-05-18 22:53:48 - Assentos atualizados: 0 linha(s) para order_nsu=RES-6a0b7c19a5421
+2026-05-18 22:53:48 - Sucesso: Pedido RES-6a0b7c19a5421 processado. Vendas=3, Assentos=0
+
+2026-05-18 22:57:36 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva Mesas: Mesa 1","product_reference":null}],"amount":100,"order_nsu":"RES-6a0b7cc5b3320","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/f7d0300c-39a8-4d9a-a80d-5ed184e9701a","installments":1,"invoice_slug":"zR4wwraBPb","capture_method":"pix","transaction_nsu":"f7d0300c-39a8-4d9a-a80d-5ed184e9701a"}
+2026-05-18 22:57:36 - Vendas atualizadas: 4 linha(s) para order_nsu=RES-6a0b7cc5b3320
+2026-05-18 22:57:36 - Assentos atualizados: 1 linha(s) para order_nsu=RES-6a0b7cc5b3320
+2026-05-18 22:57:36 - Sucesso: Pedido RES-6a0b7cc5b3320 processado. Vendas=4, Assentos=1
+
+2026-05-19 03:30:20 - Recebido: {"items":[{"price":100,"quantity":1,"description":"Reserva Mesas: Mesa 1","product_reference":null}],"amount":100,"order_nsu":"RES-6a0bbce85243d","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/f047f6cd-ff6e-45be-b82f-84057714b730","installments":1,"invoice_slug":"yStwvZYYpQ","capture_method":"pix","transaction_nsu":"f047f6cd-ff6e-45be-b82f-84057714b730"}
+2026-05-19 03:30:20 - Vendas atualizadas: 4 linha(s) para order_nsu=RES-6a0bbce85243d
+2026-05-19 03:30:20 - Assentos atualizados: 1 linha(s) para order_nsu=RES-6a0bbce85243d
+2026-05-19 03:30:20 - Sucesso: Pedido RES-6a0bbce85243d processado. Vendas=4, Assentos=1
+
+2026-05-19 03:33:24 - Recebido: {"items":[{"price":200,"quantity":1,"description":"Ingresso Individual Forró (2 x)","product_reference":null}],"amount":200,"order_nsu":"RES-6a0bbd905d0ca","paid_amount":200,"receipt_url":"https://recibo.infinitepay.io/e0697ea1-d521-4235-b2df-9f1e751a6997","installments":1,"invoice_slug":"F3FMHT2Vlw","capture_method":"pix","transaction_nsu":"e0697ea1-d521-4235-b2df-9f1e751a6997"}
+2026-05-19 03:33:24 - Vendas atualizadas: 2 linha(s) para order_nsu=RES-6a0bbd905d0ca
+2026-05-19 03:33:24 - Assentos atualizados: 0 linha(s) para order_nsu=RES-6a0bbd905d0ca
+2026-05-19 03:33:24 - Sucesso: Pedido RES-6a0bbd905d0ca processado. Vendas=2, Assentos=0
+
+2026-05-19 03:43:11 - Recebido: {"items":[{"price":100,"quantity":1,"description":"FORRIASC 2026 - Ingresso Individual + acompanhantes grátis","product_reference":null}],"amount":100,"order_nsu":"RES-6a0bbf8b878cc","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/e8896407-1b40-4d92-91d6-2e09aac26803","installments":1,"invoice_slug":"gCme6wd3W5","capture_method":"pix","transaction_nsu":"e8896407-1b40-4d92-91d6-2e09aac26803"}
+2026-05-19 03:43:11 - Vendas atualizadas: 3 linha(s) para order_nsu=RES-6a0bbf8b878cc
+2026-05-19 03:43:11 - Assentos atualizados: 0 linha(s) para order_nsu=RES-6a0bbf8b878cc
+2026-05-19 03:43:11 - Sucesso: Pedido RES-6a0bbf8b878cc processado. Vendas=3, Assentos=0
+
+2026-05-19 04:40:24 - Recebido: {"items":[{"price":100,"quantity":1,"description":"FORRIASC 2026 - Mesa(s): Mesa 2","product_reference":null}],"amount":100,"order_nsu":"RES-6a0bcd3971293","paid_amount":100,"receipt_url":"https://recibo.infinitepay.io/20622059-31d5-40bc-b89a-f91ec704e390","installments":1,"invoice_slug":"PZ9wFq5lVk","capture_method":"pix","transaction_nsu":"20622059-31d5-40bc-b89a-f91ec704e390"}
+2026-05-19 04:40:24 - Vendas atualizadas: 4 linha(s) para order_nsu=RES-6a0bcd3971293
+2026-05-19 04:40:24 - Assentos atualizados: 1 linha(s) para order_nsu=RES-6a0bcd3971293
+2026-05-19 04:40:24 - Sucesso: Pedido RES-6a0bcd3971293 processado. Vendas=4, Assentos=1
+
+2026-05-19 04:40:28 - Email para nissinmiojo53@gmail.com: FALHOU
 

@@ -12,7 +12,7 @@ const AdminDashboard = () => {
     const fetchVendas = async () => {
         try {
             // URL corrigida
-            const res = await axios.get('http://localhost/reserva-forroiasc/backend/listar_vendas.php');
+            const res = await axios.get('http://localhost/reserva-forriasc/backend/listar_vendas.php');
             if (res.data.success) {
                 setVendas(res.data.data);
             }
